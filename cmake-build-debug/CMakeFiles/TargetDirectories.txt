@@ -1,0 +1,3 @@
+/mnt/c/Users/lilia/Desktop/PythonProject/files/programovanie/1 rocnik ls(c)/prog2 opakovanie/zadanie4/cmake-build-debug/CMakeFiles/z4.dir
+/mnt/c/Users/lilia/Desktop/PythonProject/files/programovanie/1 rocnik ls(c)/prog2 opakovanie/zadanie4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lilia/Desktop/PythonProject/files/programovanie/1 rocnik ls(c)/prog2 opakovanie/zadanie4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
